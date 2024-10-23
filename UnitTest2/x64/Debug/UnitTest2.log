@@ -1,0 +1,13 @@
+﻿  UnitTest2.cpp
+C:\Users\karin\source\repos\lab8.1.rec\lab8.1.rec\FileName.cpp(24,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest2.cpp')
+  
+C:\Users\karin\source\repos\lab8.1.rec\UnitTest2\UnitTest2.cpp(19,17): warning C4002: too many arguments for function-like macro invocation 'assert'
+  (compiling source file '/UnitTest2.cpp')
+  
+C:\Users\karin\source\repos\lab8.1.rec\UnitTest2\UnitTest2.cpp(24,17): warning C4002: too many arguments for function-like macro invocation 'assert'
+  (compiling source file '/UnitTest2.cpp')
+  
+C:\Users\karin\source\repos\lab8.1.rec\UnitTest2\UnitTest2.cpp(29,17): warning C4002: too many arguments for function-like macro invocation 'assert'
+  (compiling source file '/UnitTest2.cpp')
+  
